@@ -3,8 +3,8 @@ In this repo, we explore the basics of AI/ML all the way to the advanced. Please
 
 ### Table Of Content
 
-- [The Basics](https://github.com/ccibeekeoc42/MachineIntelligence_Masterr#the-basics)
-- [Projects](https://github.com/ccibeekeoc42/MachineIntelligence_Masterr#the-projects)
+- [The Basics](https://github.com/ccibeekeoc42/MachineIntelligence_Master#the-basics)
+- [Projects](https://github.com/ccibeekeoc42/MachineIntelligence_Master#the-projects)
 
 ### The Basics
 
